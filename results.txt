@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 Computer Name: LeonsOfen
 Date of Test: 2025-11-22 13:31:08
 Bubble Sort Time: 2.867873 seconds
 Quick Sort Time: 0.009548 seconds
-=======
+
 Computer Name: HP-Simon
 Date of Test: 2025-11-22 13:31:02
 Bubble Sort Time: 8.125266 seconds
 Quick Sort Time: 0.020295 seconds
->>>>>>> 073af50 (added results Simon)
+
 
